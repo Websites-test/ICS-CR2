@@ -248,11 +248,11 @@
           </div>
         </div>
       </section>
-      <section class="introduccion">
+      <section class="introduccion mb-2">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12">
-              <h2 class="wrapper-title text-center"></h2>
+              <h2 class="wrapper-title text-center mb-2"></h2>
               <p class="wrapper-descripcion"></p>
             </div>
           </div>

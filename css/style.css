@@ -1621,3 +1621,11 @@ input[type="email"]:invalid ~ .form-input-validation::after {
 .wrapper-title{
   text-transform: uppercase;
 }
+
+.text-slider{
+  bottom: 30px;
+  position: absolute;
+  left: 3%;
+  z-index: 5;
+  color: #fff;
+}
